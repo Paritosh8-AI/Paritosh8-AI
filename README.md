@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Paritosh Mukherjee
+# 👋 Hi, I'm Paritosh
 ### **AI / ML Systems Engineer**
 *Specializing in Low-Latency Deep Learning, Causal Inference, and Agentic Telemetry Diagnostics*
 
