@@ -60,7 +60,7 @@ I design and build **production-grade machine learning systems** and **autonomou
 ### 📈 GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paritosh8-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Paritosh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paritosh8-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" height="165" alt="Paritosh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paritosh8-AI&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
 </div>
 
